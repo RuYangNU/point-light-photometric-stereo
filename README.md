@@ -20,8 +20,6 @@ We provide:
 - Datasets: training dataset, validation dataset and test dataset.
       https://drive.google.com/drive/folders/1B2JLnd0Jn5kwrqkbHT9R6MUC-NROJ3C0?usp=sharing
 - Pre-trained models:
-      https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6?usp=sharing
-    - DisplacementNet
-    - StrainNet
+      https://drive.google.com/drive/folders/1jnl9Wzi6DUvXWVuwimj6i0jAPaB0Nq3o?usp=share_link
 - Code to train the DPPS with dataset.
 - Calibrated lighting conditions.
